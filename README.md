@@ -1,6 +1,6 @@
 # 🏦 Simulador de Banco en Python
 
-![Portada del juego](simulador_bancos.png)
+![Portada](portada_cliente_banco.png)
 
 Este proyecto es un simulador básico de cliente bancario desarrollado en Python como práctica de Programación Orientada a Objetos (POO). Permite crear un cliente, depositar y retirar dinero, todo a través de una interfaz de consola.
 
